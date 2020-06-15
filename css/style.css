@@ -1,0 +1,46 @@
+
+/*Estilos do corpo*/
+body {
+    background: #a3a8b5;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/*Estilos do cabecalho*/
+header {
+    margin-top: 100px;
+}
+
+/*Estilos do paragrafos*/
+h1 {
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+        
+h2 {
+    color: #031655;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*estilo dos paragrafos, tamanho e cor*/
+p {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+/*Espaco entre imagens a baixo de um elemento*/
+img {
+    margin-bottom: 50px;
+}
+
+footer {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+/*chamando classes*/
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
